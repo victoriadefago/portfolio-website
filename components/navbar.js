@@ -191,12 +191,6 @@ export default function Navbar() {
           Projects
         </Link>
         <Link
-          href="/experience"
-          className="text-base font-normal text-gray-600 dark:text-gray-300"
-        >
-          Experience
-        </Link>
-        <Link
           href="/contact"
           className="text-base font-normal text-gray-600 dark:text-gray-300"
         >

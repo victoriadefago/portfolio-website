@@ -85,7 +85,7 @@ const userData = {
     },
   ],
   resumeUrl:
-    "https://drive.google.com/file/d/1xmE3BOmgM7TAOOgVp36xQIQvYDntDYoo/view?usp=sharing",
+    "",
   socialLinks: {
     instagram: "https://instagram.com/vicodfg",
     linkedin: "https://linkedin.com/in/victoriadefagot",
