@@ -27,9 +27,19 @@ const userData = {
       imgUrl: "/appointments.png",
     },
     {
+      title: "News Search Engine",
+      link: "",
+      imgUrl: "/news.png",
+    },
+    {
       title: "CRM Clients",
       link: "",
       imgUrl: "/crm.png",
+    },
+    {
+      title: "Drinks Blog",
+      link: "https://drinks-nextjs.vercel.app/",
+      imgUrl: "/drinks.png",
     },
     {
       title: "Mercado Liebre",

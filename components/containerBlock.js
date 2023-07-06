@@ -8,7 +8,7 @@ export default function ContainerBlock({ children, ...customMeta }) {
 
   const meta = {
    title: "Victoria Defagot - Developer",
-    description: `I've been developing websites for 5 years straight. Get in touch with me to know more.`,
+    description: ``,
     type: "website",
     ...customMeta,
   };
